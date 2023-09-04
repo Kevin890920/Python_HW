@@ -14,7 +14,7 @@ class Student:
         print("Student_ID :", self.student_id)
         print("Age :", self.age)
         print("Gender :", self.gender)
-        print("Grade :",self.grade)
+        print("Grade :", self.grade)
 
 student = Student("Kevin", "R12942121", "22", "male")
 student.get_grade()
